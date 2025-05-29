@@ -1,1 +1,1 @@
-console.log('Multilingual and ecommerce features coming soon...');
+// script.js for language switch
