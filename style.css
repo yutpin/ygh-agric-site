@@ -1,36 +1,31 @@
-
 body {
-  font-family: 'Khmer OS', 'Roboto', 'Arial', sans-serif;
-  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
+  background-color: #fefefe;
+  color: #111;
 }
 header {
-  background-color: #2d6a4f;
+  background-color: #0b1462;
   color: white;
-  padding: 20px;
-  text-align: center;
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
-nav {
-  margin: 10px 0;
+.logo {
+  height: 50px;
 }
 nav a {
   color: white;
   margin: 0 10px;
   text-decoration: none;
 }
-main {
-  padding: 20px;
-  text-align: center;
-}
 select {
-  margin-top: 10px;
-  padding: 5px;
-  font-size: 16px;
+  font-size: 1em;
 }
-footer {
-  text-align: center;
-  padding: 10px;
-  background-color: #d8f3dc;
-  margin-top: 20px;
+[data-lang="km"] {
+  font-family: 'Moul', cursive;
+}
+main {
+  padding: 2em;
 }
