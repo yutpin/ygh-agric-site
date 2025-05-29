@@ -1,0 +1,1 @@
+console.log('Multilingual and ecommerce features coming soon...');
