@@ -1,1 +1,36 @@
-body { font-family: sans-serif; padding: 20px; }
+
+body {
+  font-family: 'Khmer OS', 'Roboto', 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #2d6a4f;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  margin: 10px 0;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+  text-align: center;
+}
+select {
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #d8f3dc;
+  margin-top: 20px;
+}

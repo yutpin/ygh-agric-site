@@ -1,1 +1,37 @@
-Object.assign(translations,{en:{home_title:'Home',home_welcome:'Welcome',home_intro:'This is the home page of our multilingual agricultural website.',nav_home:'Home',nav_products:'Products',nav_order:'Order',nav_contact:'Contact',nav_about:'About',product_title:'Our Products',product_list:'We offer fresh and dried longan products.',order_title:'Place Your Order',order_name:'Name:',order_phone:'Phone:',order_quantity:'Quantity:',order_submit:'Submit',contact_title:'Contact Us',contact_info:'Email: ygh168agric@gmail.com | Tel: +855 96 338 8839',about_title:'About Our Company',about_content:'We promote and sell Cambodian longan products locally and internationally.'},km:{home_title:'ទំព័រដើម',home_welcome:'សូមស្វាគមន៍',home_intro:'នេះជាទំព័រដើមនៃគេហទំព័រជាភាសាច្រើន។',nav_home:'ទំព័រដើម',nav_products:'ផលិតផល',nav_order:'បញ្ជាទិញ',nav_contact:'ទំនាក់ទំនង',nav_about:'អំពីយើង',product_title:'ផលិតផលរបស់យើង',product_list:'យើងផ្តល់ជូនផលិតផលផ្លែមៀនស្រស់ និងស្ងួត។',order_title:'បំពេញការបញ្ជាទិញ',order_name:'ឈ្មោះ:',order_phone:'លេខទូរស័ព្ទ:',order_quantity:'បរិមាណ:',order_submit:'បញ្ជូន',contact_title:'ទំនាក់ទំនង',contact_info:'អ៊ីម៉ែល: ygh168agric@gmail.com | ទូរស័ព្ទ: +855 96 338 8839',about_title:'អំពីក្រុមហ៊ុន',about_content:'យើងផ្សព្វផ្សាយ និងលក់ផលិតផលផ្លែមៀនខ្មែរ ទៅក្នុង និងក្រៅប្រទេស។'},zh:{home_title:'主页',home_welcome:'欢迎',home_intro:'这是我们的多语言农业网站首页。',nav_home:'主页',nav_products:'产品',nav_order:'订购',nav_contact:'联系我们',nav_about:'关于我们',product_title:'我们的产品',product_list:'我们提供新鲜和干龙眼产品。',order_title:'提交订单',order_name:'姓名：',order_phone:'电话：',order_quantity:'数量：',order_submit:'提交',contact_title:'联系我们',contact_info:'邮箱: ygh168agric@gmail.com | 电话: +855 96 338 8839',about_title:'关于我们公司',about_content:'我们在本地和国际上推广和销售柬埔寨龙眼产品。'},vi:{home_title:'Trang chủ',home_welcome:'Chào mừng',home_intro:'Đây là trang chính của trang web nông nghiệp đa ngôn ngữ.',nav_home:'Trang chủ',nav_products:'Sản phẩm',nav_order:'Đặt hàng',nav_contact:'Liên hệ',nav_about:'Giới thiệu',product_title:'Sản phẩm của chúng tôi',product_list:'Chúng tôi cung cấp sản phẩm nhãn tươi và khô.',order_title:'Đặt hàng',order_name:'Tên:',order_phone:'Điện thoại:',order_quantity:'Số lượng:',order_submit:'Gửi',contact_title:'Liên hệ chúng tôi',contact_info:'Email: ygh168agric@gmail.com | SĐT: +855 96 338 8839',about_title:'Về công ty chúng tôi',about_content:'Chúng tôi quảng bá và bán sản phẩm nhãn Campuchia trong nước và quốc tế.'}});
+
+langData.en = {
+  "title": "Welcome",
+  "desc": "This is the home page of our multilingual agricultural website.",
+  "nav.home": "Home",
+  "nav.products": "Products",
+  "nav.order": "Order",
+  "nav.contact": "Contact",
+  "nav.about": "About"
+};
+langData.km = {
+  "title": "សូមស្វាគមន៍",
+  "desc": "នេះគឺជាទំព័រដើមនៃគេហទំព័រចម្រុះភាសានៃអាជីវកម្មកសិកម្ម។",
+  "nav.home": "ទំព័រដើម",
+  "nav.products": "ផលិតផល",
+  "nav.order": "បញ្ជាទិញ",
+  "nav.contact": "ទំនាក់ទំនង",
+  "nav.about": "អំពីយើង"
+};
+langData.zh = {
+  "title": "欢迎",
+  "desc": "这是我们的多语言农业网站的主页。",
+  "nav.home": "主页",
+  "nav.products": "产品",
+  "nav.order": "订单",
+  "nav.contact": "联系",
+  "nav.about": "关于我们"
+};
+langData.vi = {
+  "title": "Chào mừng",
+  "desc": "Đây là trang chủ của trang web nông nghiệp đa ngôn ngữ.",
+  "nav.home": "Trang chủ",
+  "nav.products": "Sản phẩm",
+  "nav.order": "Đặt hàng",
+  "nav.contact": "Liên hệ",
+  "nav.about": "Về chúng tôi"
+};
