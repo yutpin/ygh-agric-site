@@ -1,23 +1,19 @@
 
-const translations = {
-  km: {
-    title: "គេហទំព័ររបស់យើង",
-    welcome: "សូមស្វាគមន៍មកកាន់គេហទំព័រ!",
-    description: "នេះគឺជាគេហទំព័រពាណិជ្ជកម្មមួយសម្រាប់ ផ្លែមៀន។"
-  },
+window.translations = {
   en: {
-    title: "Our Website",
-    welcome: "Welcome to our website!",
-    description: "This is a business website for Longan."
+    title: "Welcome",
+    description: "This is an agricultural business website."
+  },
+  km: {
+    title: "សូមស្វាគមន៍",
+    description: "នេះគឺជាគេហទំព័រអាជីវកម្មកសិកម្ម។"
   },
   zh: {
-    title: "我们的网站",
-    welcome: "欢迎来到我们的网站！",
-    description: "这是一个关于龙眼的商业网站。"
+    title: "欢迎",
+    description: "这是一个农业商业网站。"
   },
   vi: {
-    title: "Trang web của chúng tôi",
-    welcome: "Chào mừng đến với trang web của chúng tôi!",
-    description: "Đây là một trang web kinh doanh về nhãn."
+    title: "Chào mừng",
+    description: "Đây là một trang web kinh doanh nông nghiệp."
   }
 };

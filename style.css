@@ -1,1 +1,14 @@
-body { font-family: 'Khmer OS', sans-serif; padding: 20px; }
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 2em;
+  background: #f9f9f9;
+}
+header {
+  background: #2e7d32;
+  color: white;
+  padding: 1em;
+}
+select {
+  margin-left: 1em;
+}
